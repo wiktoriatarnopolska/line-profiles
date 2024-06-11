@@ -307,3 +307,4 @@ TSWLatexianTemp*
 
 # Additional user defined ignores
 .DS_Store
+paper/line-profiles.pdf
